@@ -2,7 +2,7 @@
 
 這是我參加Shopee Code League 2021的競賽程式碼，競賽心得可到我的[部落格](https://suyenting.github.io/post/shopee-competition-2021/)觀看
 
-# 競賽成果
+## 競賽成果
 
 數據分析競賽項目(Multi-Channel Contacts)在規定的三小時內，我們組別雖然沒有做出來，但事後有做出來並提交到Kaggle上，並拿到最高分，代表資料整理後的結果有符合官方要求。
 
